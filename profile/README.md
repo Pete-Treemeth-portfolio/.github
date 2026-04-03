@@ -1,0 +1,12 @@
+# Pete Treemeth Portfolio
+
+Welcome to my portfolio organization. This space is used to organize and showcase my academic projects in computer science.
+I am currently a third-year undergraduate student studying Computer Science at Portland State University. 
+
+## About This Portfolio
+
+This portfolio is a work in progress and will continue to be updated as I:
+
+- Improve my understanding of efficient algorithms and data structures
+- Build more complex and complete software projects
+- Explore new areas such as audio processing and systems programming
