@@ -10,3 +10,16 @@ This portfolio is a work in progress and will continue to be updated as I:
 - Improve my understanding of efficient algorithms and data structures
 - Build more complex and complete software projects
 - Explore new areas such as audio processing and systems programming
+
+
+## Projects
+
+This portfolio currently includes projects created for my Computer, Sound, and Music course.
+
+## Clipped
+
+A program related to digital audio processing and waveform manipulation
+
+## Modem
+
+A Bell 103-style demodulator that decodes text messages from audio using frequency shift keying.
