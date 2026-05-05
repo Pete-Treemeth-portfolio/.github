@@ -18,7 +18,7 @@ This portfolio currently includes projects created for my Computer, Sound, and M
 
 ## Clipped
 
-A program related to digital audio processing and waveform manipulation
+A program related to digital audio processing and waveform manipulation.
 
 ## Modem
 
